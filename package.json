@@ -1,10 +1,10 @@
 {
   "name": "jaded",
-  "description": "Collections",
+  "description": "Collection of Jade plugins",
   "version": "0.1.2",
-  "homepage": "http://github.com/hybridboz/jaded",
-  "repository": "git://github.com/hybridboz/jaded.git",
-  "author": "HybridBoz <testnetdummy@gmail.com>",
+  "homepage": "http://github.com/wearefractal/jaded",
+  "repository": "git://github.com/wearefractal/jaded.git",
+  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "preferGlobal": "true",
   "bin": {
@@ -23,7 +23,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/hybridboz/jaded/raw/master/LICENSE"
+      "url": "http://github.com/wearefractal/jaded/raw/master/LICENSE"
     }
   ]
 }
