@@ -1,0 +1,29 @@
+{
+  "name": "jaded",
+  "description": "Collections",
+  "version": "0.1.2",
+  "homepage": "http://github.com/hybridboz/jaded",
+  "repository": "git://github.com/hybridboz/jaded.git",
+  "author": "HybridBoz <testnetdummy@gmail.com>",
+  "main": "./index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "jaded": "./bin/jaded"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "commander": "^2.5.0",
+    "jade": "^1.7.0",
+    "mkdirp": "^0.5.0",
+    "uglify-js": "^1.3.4"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/hybridboz/jaded/raw/master/LICENSE"
+    }
+  ]
+}
